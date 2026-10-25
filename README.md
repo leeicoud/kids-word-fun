@@ -58,7 +58,18 @@ npm run preview
 2. 在仓库的 **Settings -> Pages -> Build and deployment -> Source** 中选择 **GitHub Actions**；
 3. 以后每次推送代码都会自动打包并上线到 `https://<你的用户名>.github.io/<仓库名>/`。
 
-### 3. Cloudflare Pages / Netlify
-- **构建命令**：`npm run build`
-- **构建输出目录**：`dist`
-- 永久免费无限流量，国内访问速度极快。
+### 3. Cloudflare Pages（国内高速访问推荐，无限免费流量）
+- **优势**：全球 Anycast CDN 网络，国内访问延迟低且完全免费无流量限制。
+- **方式 A（命令行一键部署）**：
+  ```bash
+  ./deploy-to-cloudflare.sh
+  # 或直接运行：
+  npx wrangler pages deploy dist --project-name=kids-word-fun
+  ```
+- **方式 B（网页直接拖拽上传，无需敲命令）**：
+  1. 打开 [Cloudflare 控制台](https://dash.cloudflare.com/) ➔ 进入 **Workers 和 Pages**；
+  2. 点击 **创建应用程序** ➔ **Pages** ➔ 选择 **直接上传 (Direct Upload)**；
+  3. 项目名称填 `kids-word-fun`，直接把本地生成的 `dist` 文件夹拖入网页中，点击 **部署站点** 即可！
+- **方式 C（连接 Git 仓库自动上线）**：
+  - 构建命令：`npm run build`
+  - 构建输出目录：`dist`
