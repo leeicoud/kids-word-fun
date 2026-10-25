@@ -1,0 +1,22 @@
+[
+  {"name": "Monday", "trans": ["星期一"], "usphone": "ˈmʌndeɪ", "ukphone": "ˈmʌndeɪ", "sentences": [{"s": "We have science class on Monday.", "sCn": "我们星期一有科学课。"}]},
+  {"name": "Tuesday", "trans": ["星期二"], "usphone": "ˈtuːzdeɪ", "ukphone": "ˈtjuːzdeɪ", "sentences": [{"s": "Tuesday is my art lesson day.", "sCn": "星期二是我的美术课日。"}]},
+  {"name": "Wednesday", "trans": ["星期三"], "usphone": "ˈwenzdeɪ", "ukphone": "ˈwenzdeɪ", "sentences": [{"s": "Wednesday is in the middle of week.", "sCn": "星期三是一周的中间一天。"}]},
+  {"name": "Thursday", "trans": ["星期四"], "usphone": "ˈθɜːrzdeɪ", "ukphone": "ˈθɜːzdeɪ", "sentences": [{"s": "We play basketball on Thursday.", "sCn": "我们星期四打篮球。"}]},
+  {"name": "Friday", "trans": ["星期五"], "usphone": "ˈfraɪdeɪ", "ukphone": "ˈfraɪdeɪ", "sentences": [{"s": "Friday afternoon is so relaxing.", "sCn": "星期五下午真是轻松惬意。"}]},
+  {"name": "Saturday", "trans": ["星期六"], "usphone": "ˈsætərdeɪ", "ukphone": "ˈsætədeɪ", "sentences": [{"s": "I visit my grandparents on Saturday.", "sCn": "我星期六去看望爷爷奶奶。"}]},
+  {"name": "Sunday", "trans": ["星期日，星期天"], "usphone": "ˈsʌndeɪ", "ukphone": "ˈsʌndeɪ", "sentences": [{"s": "Sunday is a good day for family picnic.", "sCn": "星期日非常适合全家野餐。"}]},
+  {"name": "weekend", "trans": ["周末"], "usphone": "ˈwiːkend", "ukphone": "ˌwiːkˈend", "sentences": [{"s": "Have a wonderful weekend!", "sCn": "周末愉快！"}]},
+  {"name": "spring", "trans": ["春天，春季"], "usphone": "sprɪŋ", "ukphone": "sprɪŋ", "sentences": [{"s": "Spring is green and lively.", "sCn": "春天生机勃勃一片翠绿。"}]},
+  {"name": "summer", "trans": ["夏天，夏季"], "usphone": "ˈsʌmər", "ukphone": "ˈsʌmə", "sentences": [{"s": "We swim happily in hot summer.", "sCn": "在炎热的夏天我们快乐地游泳。"}]},
+  {"name": "autumn", "trans": ["秋天，秋季"], "usphone": "ˈɔːtəm", "ukphone": "ˈɔːtəm", "sentences": [{"s": "Golden leaves fall in cool autumn.", "sCn": "金黄的落叶在凉爽的秋天飘落。"}]},
+  {"name": "winter", "trans": ["冬天，冬季"], "usphone": "ˈwɪntər", "ukphone": "ˈwɪntə", "sentences": [{"s": "Snowflakes dance in white winter.", "sCn": "雪花在洁白的冬日漫天飞舞。"}]},
+  {"name": "season", "trans": ["季节"], "usphone": "ˈsiːzn", "ukphone": "ˈsiːzn", "sentences": [{"s": "Which season do you like best?", "sCn": "你最喜欢哪个季节？"}]},
+  {"name": "clean the room", "trans": ["打扫房间"], "usphone": "kliːn ðə ruːm", "ukphone": "kliːn ðə ruːm", "sentences": [{"s": "I help mum clean the room.", "sCn": "我帮妈妈打扫房间。"}]},
+  {"name": "cook dinner", "trans": ["做晚饭"], "usphone": "kʊk ˈdɪnər", "ukphone": "kʊk ˈdɪnə", "sentences": [{"s": "Dad cooks delicious dinner for us.", "sCn": "爸爸为我们做美味的晚饭。"}]},
+  {"name": "wash clothes", "trans": ["洗衣服"], "usphone": "wɑːʃ kloʊðz", "ukphone": "wɒʃ kləʊðz", "sentences": [{"s": "I can wash my own clothes.", "sCn": "我自己会洗自己的衣服啦。"}]},
+  {"name": "bridge", "trans": ["桥梁"], "usphone": "brɪdʒ", "ukphone": "brɪdʒ", "sentences": [{"s": "A stone bridge spans over the river.", "sCn": "一座石桥横跨在小河上。"}]},
+  {"name": "forest", "trans": ["森林"], "usphone": "ˈfɔːrɪst", "ukphone": "ˈfɒrɪst", "sentences": [{"s": "Many birds live in the green forest.", "sCn": "许多鸟儿生活在绿色的森林里。"}]},
+  {"name": "river", "trans": ["小河，河流"], "usphone": "ˈrɪvər", "ukphone": "ˈrɪvə", "sentences": [{"s": "Clean water flows in the gentle river.", "sCn": "清澈的河水在温柔的小河中流淌。"}]},
+  {"name": "mountain", "trans": ["高山，山峰"], "usphone": "ˈmaʊntn", "ukphone": "ˈmaʊntɪn", "sentences": [{"s": "Climb up the mountain to see sunrise.", "sCn": "登上高山看日出。"}]}
+]

@@ -1,0 +1,19 @@
+[
+  {"name": "taller", "trans": ["更高的"], "usphone": "ˈtɔːlər", "ukphone": "ˈtɔːlə", "sentences": [{"s": "I am taller than my younger brother.", "sCn": "我比我的弟弟要高一些。"}]},
+  {"name": "shorter", "trans": ["更矮的；更短的"], "usphone": "ˈʃɔːrtər", "ukphone": "ˈʃɔːtə", "sentences": [{"s": "The rabbit tail is shorter than monkey tail.", "sCn": "兔子的尾巴比猴子的尾巴短。"}]},
+  {"name": "stronger", "trans": ["更强壮的"], "usphone": "ˈstrɔːŋɡər", "ukphone": "ˈstrɒŋɡə", "sentences": [{"s": "Sports make us healthy and stronger.", "sCn": "体育运动让我们健康又强壮。"}]},
+  {"name": "older", "trans": ["年纪更大的"], "usphone": "ˈoʊldər", "ukphone": "ˈəʊldə", "sentences": [{"s": "Grandpa is older and full of wisdom.", "sCn": "爷爷年纪更长，充满智慧。"}]},
+  {"name": "younger", "trans": ["更年轻的"], "usphone": "ˈjʌŋɡər", "ukphone": "ˈjʌŋɡə", "sentences": [{"s": "The little baby is younger than me.", "sCn": "小宝宝比我还要小。"}]},
+  {"name": "by bus", "trans": ["乘公共汽车"], "usphone": "baɪ bʌs", "ukphone": "baɪ bʌs", "sentences": [{"s": "I go to school by bus every day.", "sCn": "我每天乘公交车去上学。"}]},
+  {"name": "by bike", "trans": ["骑自行车"], "usphone": "baɪ baɪk", "ukphone": "baɪ baɪk", "sentences": [{"s": "Riding by bike is green and fun.", "sCn": "骑自行车既环保又有趣。"}]},
+  {"name": "by plane", "trans": ["乘飞机"], "usphone": "baɪ pleɪn", "ukphone": "baɪ pleɪn", "sentences": [{"s": "We travel to Beijing by plane.", "sCn": "我们乘飞机去北京旅行。"}]},
+  {"name": "traffic lights", "trans": ["交通信号灯"], "usphone": "ˈtræfɪk laɪts", "ukphone": "ˈtræfɪk laɪts", "sentences": [{"s": "Red light means stop, green light means go.", "sCn": "红灯停，绿灯行。"}]},
+  {"name": "hospital", "trans": ["医院"], "usphone": "ˈhɑːspɪtl", "ukphone": "ˈhɒspɪtl", "sentences": [{"s": "Kind doctors take care of us in hospital.", "sCn": "和蔼的医生在医院悉心照顾我们。"}]},
+  {"name": "cinema", "trans": ["电影院"], "usphone": "ˈsɪnəmə", "ukphone": "ˈsɪnəmə", "sentences": [{"s": "We watch cartoon movies at the cinema.", "sCn": "我们在电影院看动画电影。"}]},
+  {"name": "post office", "trans": ["邮局"], "usphone": "poʊst ˈɔːfɪs", "ukphone": "pəʊst ˈɒfɪs", "sentences": [{"s": "Send a postcard at the post office.", "sCn": "在邮局寄出一张明信片。"}]},
+  {"name": "turn left", "trans": ["向左转"], "usphone": "tɜːrn left", "ukphone": "tɜːn left", "sentences": [{"s": "Turn left at the green bookstore.", "sCn": "在绿色书店处向左转。"}]},
+  {"name": "turn right", "trans": ["向右转"], "usphone": "tɜːrn raɪt", "ukphone": "tɜːn raɪt", "sentences": [{"s": "Turn right and walk straight ahead.", "sCn": "向右转然后笔直向前走。"}]},
+  {"name": "went camping", "trans": ["去野营（过去式）"], "usphone": "went ˈkæmpɪŋ", "ukphone": "went ˈkæmpɪŋ", "sentences": [{"s": "We went camping in the mountains last week.", "sCn": "上周我们去山里野营了。"}]},
+  {"name": "rode a horse", "trans": ["骑马（过去式）"], "usphone": "roʊd ə hɔːrs", "ukphone": "rəʊd ə hɔːs", "sentences": [{"s": "He rode a horse on the grassland.", "sCn": "他在草原上骑了马。"}]},
+  {"name": "took pictures", "trans": ["照相，拍照（过去式）"], "usphone": "tʊk ˈpɪktʃərz", "ukphone": "tʊk ˈpɪktʃəz", "sentences": [{"s": "Mum took lots of lovely pictures.", "sCn": "妈妈拍了好多好看的照片。"}]}
+]

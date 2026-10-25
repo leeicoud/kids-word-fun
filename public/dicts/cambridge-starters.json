@@ -1,0 +1,17 @@
+[
+  {"name": "alien", "trans": ["外星人"], "usphone": "ˈeɪliən", "ukphone": "ˈeɪliən", "sentences": [{"s": "The friendly alien comes from Mars.", "sCn": "友善的外星人来自火星。"}]},
+  {"name": "balloon", "trans": ["气球"], "usphone": "bəˈluːn", "ukphone": "bəˈluːn", "sentences": [{"s": "A red balloon flies high into the sky.", "sCn": "一个红气球高高飞向天空。"}]},
+  {"name": "birthday", "trans": ["生日"], "usphone": "ˈbɜːrθdeɪ", "ukphone": "ˈbɜːθdeɪ", "sentences": [{"s": "Happy birthday to my dear friend!", "sCn": "祝我亲爱的朋友生日快乐！"}]},
+  {"name": "boat", "trans": ["小船，帆船"], "usphone": "boʊt", "ukphone": "bəʊt", "sentences": [{"s": "The little boat floats on the lake.", "sCn": "小船漂在湖面上。"}]},
+  {"name": "camera", "trans": ["照相机"], "usphone": "ˈkæmrə", "ukphone": "ˈkæmrə", "sentences": [{"s": "Smile at the camera and say cheese!", "sCn": "对着照相机微笑说‘茄子’！"}]},
+  {"name": "candy", "trans": ["糖果"], "usphone": "ˈkændi", "ukphone": "ˈkændi", "sentences": [{"s": "Sweet rainbow candy melts in mouth.", "sCn": "彩虹甜糖在嘴里融化了。"}]},
+  {"name": "dinosaur", "trans": ["恐龙"], "usphone": "ˈdaɪnəsɔːr", "ukphone": "ˈdaɪnəsɔː", "sentences": [{"s": "A big dinosaur lived long long ago.", "sCn": "很久很久以前生活着大恐龙。"}]},
+  {"name": "guitar", "trans": ["吉他"], "usphone": "ɡɪˈtɑːr", "ukphone": "ɡɪˈtɑː", "sentences": [{"s": "Play a cheerful song on the guitar.", "sCn": "用吉他弹奏一首欢快的曲子。"}]},
+  {"name": "helicopter", "trans": ["直升飞机"], "usphone": "ˈhelɪkɑːptər", "ukphone": "ˈhelɪkɒptə", "sentences": [{"s": "The toy helicopter lands safely.", "sCn": "玩具直升机安全降落了。"}]},
+  {"name": "kite", "trans": ["风筝"], "usphone": "kaɪt", "ukphone": "kaɪt", "sentences": [{"s": "Fly your kite on the windy hill.", "sCn": "在有风的小山坡上放风筝。"}]},
+  {"name": "monster", "trans": ["小怪兽，怪物"], "usphone": "ˈmɑːnstər", "ukphone": "ˈmɒnstə", "sentences": [{"s": "The funny monster loves cookies.", "sCn": "滑稽的小怪兽最爱吃曲奇饼干。"}]},
+  {"name": "robot", "trans": ["机器人"], "usphone": "ˈroʊbɑːt", "ukphone": "ˈrəʊbɒt", "sentences": [{"s": "The smart robot can dance with us.", "sCn": "聪明的机器人能和我们一起跳舞。"}]},
+  {"name": "sand", "trans": ["沙子，沙滩"], "usphone": "sænd", "ukphone": "sænd", "sentences": [{"s": "Build a sand castle on the beach.", "sCn": "在海滩上建造一座沙滩城堡。"}]},
+  {"name": "swim", "trans": ["游泳"], "usphone": "swɪm", "ukphone": "swɪm", "sentences": [{"s": "Dolphins swim fast in blue sea.", "sCn": "海豚在碧蓝的大海里飞快畅游。"}]},
+  {"name": "train", "trans": ["火车"], "usphone": "treɪn", "ukphone": "treɪn", "sentences": [{"s": "Choo-choo, the happy train is coming!", "sCn": "呜——呜——快乐的小火车来啦！"}]}
+]

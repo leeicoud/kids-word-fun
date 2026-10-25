@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Fredoka', 'ZCOOL KuaiLe', 'Comic Sans MS', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* 3D 翻转卡片特效 */
+.perspective-1000 {
+  perspective: 1000px;
+}
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* 卡通可爱糖果质感按钮与阴影 */
+.cartoon-card {
+  box-shadow: 0 10px 0 0 rgba(0, 0, 0, 0.08), 0 20px 25px -5px rgba(0, 0, 0, 0.05);
+  border: 4px solid #F1F5F9;
+}
+
+.cartoon-btn-yellow {
+  background: #FFD166;
+  border-bottom: 6px solid #E09F3E;
+  transition: all 0.1s ease;
+}
+.cartoon-btn-yellow:active {
+  transform: translateY(4px);
+  border-bottom-width: 2px;
+}
+
+.cartoon-btn-pink {
+  background: #FF6B8B;
+  border-bottom: 6px solid #D6336C;
+  transition: all 0.1s ease;
+}
+.cartoon-btn-pink:active {
+  transform: translateY(4px);
+  border-bottom-width: 2px;
+}
+
+.cartoon-btn-green {
+  background: #06D6A0;
+  border-bottom: 6px solid #059669;
+  transition: all 0.1s ease;
+}
+.cartoon-btn-green:active {
+  transform: translateY(4px);
+  border-bottom-width: 2px;
+}
+
+.cartoon-btn-blue {
+  background: #38BDF8;
+  border-bottom: 6px solid #0284C7;
+  transition: all 0.1s ease;
+}
+.cartoon-btn-blue:active {
+  transform: translateY(4px);
+  border-bottom-width: 2px;
+}
+
+.cartoon-btn-purple {
+  background: #A78BFA;
+  border-bottom: 6px solid #7C3AED;
+  transition: all 0.1s ease;
+}
+.cartoon-btn-purple:active {
+  transform: translateY(4px);
+  border-bottom-width: 2px;
+}
+
+/* 浮动与晃动效果 */
+@keyframes cuteBounce {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-6px) scale(1.02); }
+}
+
+.cute-bounce {
+  animation: cuteBounce 2.5s infinite ease-in-out;
+}
